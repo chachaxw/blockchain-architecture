@@ -8,6 +8,10 @@
 
 ![Intro to Ether (以太币介绍)](Intro%20to%20Ether%20(ETH%E7%AE%80%E4%BB%8B).png)
 
-## Intro tO Dapps(Dapp介绍)
+## Intro to Dapps(Dapp介绍)
 
 ![Intro tO Dapps(Dapp介绍)](DAPP%20%E4%BB%8B%E7%BB%8D.png)
+
+## Web2 VS Web3(WEB2 与 WEB3 的对比)
+
+![Web2 VS Web3(WEB2 与 WEB3 的对比)](WEB2%20与%20WEB3%20的对比.png)
