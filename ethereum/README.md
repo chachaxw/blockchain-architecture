@@ -19,3 +19,7 @@
 ## Ethereum Accounts (以太坊帐户)
 
 ![Ethereum Accounts (以太坊帐户)](Ethereum%20Accounts%20(%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%90%E6%88%B7).png)
+
+## Transcations(交易)
+
+![Transcations(交易)](Transactions(交易).png)
