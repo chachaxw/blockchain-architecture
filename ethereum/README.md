@@ -31,3 +31,7 @@
 ## 以太坊虚拟机 (EVM)
 
 ![以太坊虚拟机 (EVM)](%E4%BB%A5%E5%A4%AA%E5%9D%8A%E8%99%9A%E6%8B%9F%E6%9C%BA%20(EVM).png)
+
+## GAS and Fees (GAS和费用)
+
+![GAS和费用](GAS%E5%92%8C%E8%B4%B9%E7%94%A8.png)
