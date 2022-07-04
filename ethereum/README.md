@@ -43,3 +43,7 @@
 ## Networks(网络)
 
 ![Networks(网络)](Networks(%E7%BD%91%E7%BB%9C).png)
+
+## Consensus Mechanisms(共识机制)
+
+![Consensus Mechanisms(共识机制)](Consensus%20Mechanisms(%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6).png)
