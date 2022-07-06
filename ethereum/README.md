@@ -47,3 +47,7 @@
 ## Consensus Mechanisms(共识机制)
 
 ![Consensus Mechanisms(共识机制)](Consensus%20Mechanisms(%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6).png)
+
+## Proof of Work(工作量证明)
+
+![Proof of Work(工作量证明)](Proof%20of%20Work(工作量证明).png)
