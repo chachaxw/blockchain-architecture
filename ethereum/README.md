@@ -51,3 +51,7 @@
 ## Proof of Work(工作量证明)
 
 ![Proof of Work(工作量证明)](Proof%20of%20Work(工作量证明).png)
+
+## Mining(采矿)
+
+![Mining(采矿)](Mining(%E9%87%87%E7%9F%BF).png)
