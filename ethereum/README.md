@@ -60,7 +60,6 @@
 
 ![Mining(采矿)](Mining(%E9%87%87%E7%9F%BF).png)
 
-
 ## Proof of Stake(权益证明机制)
 
 ![Proof of Stake(权益证明机制)](Proof%20of%20Stake%20(%E6%9D%83%E7%9B%8A%E8%AF%81%E6%98%8E%E6%9C%BA%E5%88%B6).png)
