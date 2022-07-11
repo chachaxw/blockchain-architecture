@@ -28,9 +28,13 @@
 
 ![Block(区块)](Block(%E5%8C%BA%E5%9D%97).png)
 
-## 以太坊虚拟机 (EVM)
+## Ethereum EVM(以太坊虚拟机)
 
 ![以太坊虚拟机 (EVM)](%E4%BB%A5%E5%A4%AA%E5%9D%8A%E8%99%9A%E6%8B%9F%E6%9C%BA%20(EVM).png)
+
+[以太坊黄皮书(Ethereum Yellow Paper)](Ethereum%20Yellow%20Paper.pdf)
+[以太坊虚拟机(Ethereum EVM Illustrated)](ethereum_evm_illustrated.pdf)
+[On the Security and Performance of Proof of Work Blockchains](On%20the%20Security%20and%20Performance%20of%20Proof%20of%20Work%20Blockchains.pdf)
 
 ## GAS and Fees (GAS和费用)
 
@@ -55,3 +59,8 @@
 ## Mining(采矿)
 
 ![Mining(采矿)](Mining(%E9%87%87%E7%9F%BF).png)
+
+
+## Proof of Stake(权益证明机制)
+
+![Proof of Stake(权益证明机制)](Proof%20of%20Stake%20(%E6%9D%83%E7%9B%8A%E8%AF%81%E6%98%8E%E6%9C%BA%E5%88%B6).png)
