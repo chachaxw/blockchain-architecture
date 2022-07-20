@@ -16,7 +16,7 @@
 
 ![Web2 VS Web3(WEB2 与 WEB3 的对比)](WEB2%20与%20WEB3%20的对比.png)
 
-## Ethereum Accounts (以太坊帐户)
+## Ethereum Accounts(以太坊帐户)
 
 ![Ethereum Accounts (以太坊帐户)](Ethereum%20Accounts%20(%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%B8%90%E6%88%B7).png)
 
@@ -36,11 +36,11 @@
 [以太坊虚拟机(Ethereum EVM Illustrated)](ethereum_evm_illustrated.pdf)
 [On the Security and Performance of Proof of Work Blockchains](On%20the%20Security%20and%20Performance%20of%20Proof%20of%20Work%20Blockchains.pdf)
 
-## GAS and Fees (GAS和费用)
+## GAS and Fees(GAS和费用)
 
 ![GAS和费用](GAS%E5%92%8C%E8%B4%B9%E7%94%A8.png)
 
-## Nodes and Clients (节点和客户端)
+## Nodes and Clients(节点和客户端)
 
 ![Nodes and Clients (节点和客户端)](Nodes%20and%20Clients%20(节点和客户端).png)
 
@@ -64,6 +64,10 @@
 
 ![Proof of Stake(权益证明机制)](Proof%20of%20Stake%20(%E6%9D%83%E7%9B%8A%E8%AF%81%E6%98%8E%E6%9C%BA%E5%88%B6).png)
 
-## Ethereum Stack (以太坊技术栈简介)
+## Ethereum Stack(以太坊技术栈简介)
 
 ![Ethereum Stack (以太坊技术栈简介)](Ethereum%20Stack%20(%E4%BB%A5%E5%A4%AA%E5%9D%8A%E6%8A%80%E6%9C%AF%E6%A0%88%E7%AE%80%E4%BB%8B).png)
+
+## Smart Contract(智能合约)
+
+![Smart Contract(智能合约)](Smart%20Contract(%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6).png)
