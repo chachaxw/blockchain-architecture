@@ -76,6 +76,10 @@
 
 ![Smart Contract Language(智能合约语言)](Smart%20Contract%20Language%20(%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E8%AF%AD%E8%A8%80).png)
 
-### Smart Contract Anatomy (详解智能合约)
+### Smart Contract Anatomy(详解智能合约)
 
 ![Smart Contract Anatomy (详解智能合约)](Smart%20Contract%20Anatomy%20(详解智能合约).png)
+
+### Testing(测试用智能合约)
+
+![Testing(测试用智能合约)](Testing(测试用智能合约).png)
